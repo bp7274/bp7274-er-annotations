@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated": "2025-09-10T20:16:47.087Z",
+    "seed": null,
+    "totalProfiles": 1
+  },
+  "profiles": [
+    {
+      "id": "1757535384279-sc0mg2ibx",
+      "name": "Drew Williams",
+      "age": 33,
+      "savings": 11882,
+      "income": 74614,
+      "bills": 11837,
+      "entertainment": 6878,
+      "sales_skills": [
+        "Social Media",
+        "Content Creation"
+      ],
+      "dependents": 2,
+      "assets": 21481,
+      "risk_level": "medium",
+      "confidence": 0.61,
+      "business_difficulty": "hard",
+      "score": 75,
+      "notes": ""
+    }
+  ]
+}
