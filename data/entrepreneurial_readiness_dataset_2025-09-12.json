@@ -1,31 +1,28 @@
 {
   "metadata": {
     "version": "1.0",
-    "generated": "2025-09-12T22:31:37.562Z",
+    "generated": "2025-09-12T22:33:23.048Z",
     "seed": null,
     "totalProfiles": 1
   },
   "profiles": [
     {
-      "id": "1757716267329-jteuc5e4r",
-      "name": "Drew Davis",
-      "age": 20,
-      "savings": 21141,
-      "income": 5939,
-      "bills": 1161,
-      "entertainment": 201,
+      "id": "1757715472685-0p08c9gbh",
+      "name": "Morgan Anderson",
+      "age": 28,
+      "savings": 12240,
+      "income": 8301,
+      "bills": 3901,
+      "entertainment": 860,
       "sales_skills": [
-        "Negotiation",
-        "Networking",
-        "Social Media",
-        "Content Creation"
+        "Negotiation"
       ],
-      "dependents": 0,
-      "assets": 50781,
+      "dependents": 4,
+      "assets": 23817,
       "risk_level": "low",
-      "confidence": 0.77,
-      "business_difficulty": "very hard",
-      "score": 93,
+      "confidence": 0.07,
+      "business_difficulty": "moderate",
+      "score": 50,
       "notes": ""
     }
   ]
