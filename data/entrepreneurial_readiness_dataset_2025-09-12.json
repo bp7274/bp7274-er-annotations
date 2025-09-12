@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated": "2025-09-12T21:00:53.640Z",
+    "seed": null,
+    "totalProfiles": 1
+  },
+  "profiles": [
+    {
+      "id": "1757710611561-9kf24tlxc",
+      "name": "Avery Jackson",
+      "age": 31,
+      "savings": 1768,
+      "income": 2512,
+      "bills": 1231,
+      "entertainment": 0,
+      "sales_skills": [
+        "Email Marketing",
+        "Public Speaking",
+        "Digital Marketing",
+        "Product Demo"
+      ],
+      "dependents": 0,
+      "assets": 3019,
+      "risk_level": "high",
+      "confidence": 0.61,
+      "business_difficulty": "hard",
+      "score": 20,
+      "notes": "this person has no money and his income is barely affording  his currant life stile "
+    }
+  ]
+}
