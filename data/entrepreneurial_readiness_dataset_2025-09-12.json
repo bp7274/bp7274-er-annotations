@@ -1,32 +1,29 @@
 {
   "metadata": {
     "version": "1.0",
-    "generated": "2025-09-12T21:00:53.640Z",
+    "generated": "2025-09-12T22:19:51.866Z",
     "seed": null,
     "totalProfiles": 1
   },
   "profiles": [
     {
-      "id": "1757710611561-9kf24tlxc",
-      "name": "Avery Jackson",
-      "age": 31,
-      "savings": 1768,
-      "income": 2512,
-      "bills": 1231,
-      "entertainment": 0,
+      "id": "1757715472685-0p08c9gbh",
+      "name": "Morgan Anderson",
+      "age": 28,
+      "savings": 12240,
+      "income": 8301,
+      "bills": 3901,
+      "entertainment": 860,
       "sales_skills": [
-        "Email Marketing",
-        "Public Speaking",
-        "Digital Marketing",
-        "Product Demo"
+        "Negotiation"
       ],
-      "dependents": 0,
-      "assets": 3019,
-      "risk_level": "high",
-      "confidence": 0.61,
-      "business_difficulty": "hard",
-      "score": 20,
-      "notes": "this person has no money and his income is barely affording  his currant life stile "
+      "dependents": 4,
+      "assets": 23817,
+      "risk_level": "low",
+      "confidence": 0.07,
+      "business_difficulty": "moderate",
+      "score": 50,
+      "notes": ""
     }
   ]
 }
