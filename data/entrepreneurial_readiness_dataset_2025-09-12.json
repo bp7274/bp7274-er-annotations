@@ -1,28 +1,418 @@
 {
   "metadata": {
     "version": "1.0",
-    "generated": "2025-09-12T22:45:05.003Z",
+    "generated": "2025-09-12T22:59:28.769Z",
     "seed": null,
-    "totalProfiles": 1
+    "totalProfiles": 20
   },
   "profiles": [
     {
-      "id": "1757715472685-0p08c9gbh",
-      "name": "Morgan Anderson",
-      "age": 28,
-      "savings": 12240,
-      "income": 8301,
-      "bills": 3901,
-      "entertainment": 860,
+      "id": "1757717436470-rbme6pw1f",
+      "name": "Alex Miller",
+      "age": 27,
+      "savings": 3317,
+      "income": 3405,
+      "bills": 1972,
+      "entertainment": 135,
       "sales_skills": [
+        "Digital Marketing",
+        "Networking",
+        "Product Demo"
+      ],
+      "dependents": 2,
+      "assets": 5211,
+      "risk_level": "high",
+      "confidence": 0.29,
+      "business_difficulty": "moderate",
+      "score": 54,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-hbwfcw5wc",
+      "name": "Jordan Taylor",
+      "age": 28,
+      "savings": 15003,
+      "income": 7479,
+      "bills": 8003,
+      "entertainment": 680,
+      "sales_skills": [
+        "Social Media"
+      ],
+      "dependents": 0,
+      "assets": 27447,
+      "risk_level": "low",
+      "confidence": 0.1,
+      "business_difficulty": "moderate",
+      "score": 21,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-54g2xm3vo",
+      "name": "Sage Moore",
+      "age": 36,
+      "savings": 13605,
+      "income": 5337,
+      "bills": 3093,
+      "entertainment": 470,
+      "sales_skills": [
+        "Public Speaking",
+        "Cold Calling",
+        "Networking"
+      ],
+      "dependents": 3,
+      "assets": 25646,
+      "risk_level": "medium",
+      "confidence": 0.5,
+      "business_difficulty": "hard",
+      "score": 80,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-84n18n7ta",
+      "name": "River Miller",
+      "age": 31,
+      "savings": 47876,
+      "income": 3491,
+      "bills": 2509,
+      "entertainment": 110,
+      "sales_skills": [
+        "Email Marketing",
+        "Negotiation",
+        "Product Demo"
+      ],
+      "dependents": 3,
+      "assets": 506,
+      "risk_level": "high",
+      "confidence": 0.8,
+      "business_difficulty": "hard",
+      "score": 82,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-92fmfiqvt",
+      "name": "Taylor Wilson",
+      "age": 18,
+      "savings": 4352,
+      "income": 4191,
+      "bills": 2404,
+      "entertainment": 614,
+      "sales_skills": [
+        "Networking",
+        "Email Marketing"
+      ],
+      "dependents": 2,
+      "assets": 5121,
+      "risk_level": "high",
+      "confidence": 0.94,
+      "business_difficulty": "hard",
+      "score": 32,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-vmkx0kqsg",
+      "name": "Avery Anderson",
+      "age": 27,
+      "savings": 4729,
+      "income": 2827,
+      "bills": 1000,
+      "entertainment": 275,
+      "sales_skills": [
+        "Content Creation",
+        "Digital Marketing"
+      ],
+      "dependents": 0,
+      "assets": 3652,
+      "risk_level": "low",
+      "confidence": 0.38,
+      "business_difficulty": "easy",
+      "score": 65,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-sb0ot882r",
+      "name": "Riley Johnson",
+      "age": 27,
+      "savings": 21814,
+      "income": 4536,
+      "bills": 2079,
+      "entertainment": 494,
+      "sales_skills": [
+        "Public Speaking",
+        "Product Demo",
+        "Cold Calling",
+        "Content Creation"
+      ],
+      "dependents": 3,
+      "assets": 130884,
+      "risk_level": "high",
+      "confidence": 0.16,
+      "business_difficulty": "easy",
+      "score": 82,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-znu0dqw3u",
+      "name": "Jordan Jackson",
+      "age": 35,
+      "savings": 5285,
+      "income": 7600,
+      "bills": 2869,
+      "entertainment": 1019,
+      "sales_skills": [
+        "Social Media",
+        "Networking",
         "Negotiation"
       ],
-      "dependents": 4,
-      "assets": 23817,
+      "dependents": 2,
+      "assets": 6771,
+      "risk_level": "medium",
+      "confidence": 0.03,
+      "business_difficulty": "very hard",
+      "score": 27,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-qcty8w1ew",
+      "name": "Avery Anderson",
+      "age": 26,
+      "savings": 32404,
+      "income": 9079,
+      "bills": 4116,
+      "entertainment": 1362,
+      "sales_skills": [
+        "Digital Marketing",
+        "Social Media",
+        "Relationship Building"
+      ],
+      "dependents": 3,
+      "assets": 51674,
       "risk_level": "low",
-      "confidence": 0.07,
+      "confidence": 0.12,
+      "business_difficulty": "very hard",
+      "score": 80,
+      "notes": ""
+    },
+    {
+      "id": "1757717436470-ll7g8n4nj",
+      "name": "Morgan Davis",
+      "age": 33,
+      "savings": 20724,
+      "income": 4612,
+      "bills": 1471,
+      "entertainment": 285,
+      "sales_skills": [
+        "Public Speaking"
+      ],
+      "dependents": 0,
+      "assets": 26166,
+      "risk_level": "high",
+      "confidence": 0.17,
+      "business_difficulty": "easy",
+      "score": 65,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-2zekfucvz",
+      "name": "Drew Jackson",
+      "age": 28,
+      "savings": 149,
+      "income": 4110,
+      "bills": 2173,
+      "entertainment": 413,
+      "sales_skills": [
+        "Product Demo",
+        "Cold Calling",
+        "Negotiation"
+      ],
+      "dependents": 0,
+      "assets": 202,
+      "risk_level": "low",
+      "confidence": 0.22,
       "business_difficulty": "moderate",
-      "score": 50,
+      "score": 55,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-ms8g735ig",
+      "name": "Alex Wilson",
+      "age": 19,
+      "savings": 27044,
+      "income": 8997,
+      "bills": 3007,
+      "entertainment": 475,
+      "sales_skills": [
+        "Product Demo",
+        "Public Speaking",
+        "Cold Calling",
+        "Negotiation"
+      ],
+      "dependents": 2,
+      "assets": 46963,
+      "risk_level": "medium",
+      "confidence": 0.8,
+      "business_difficulty": "hard",
+      "score": 74,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-xzm3n9lt8",
+      "name": "Riley Davis",
+      "age": 28,
+      "savings": 2052,
+      "income": 3692,
+      "bills": 1652,
+      "entertainment": 206,
+      "sales_skills": [
+        "Product Demo",
+        "Email Marketing"
+      ],
+      "dependents": 3,
+      "assets": 2422,
+      "risk_level": "low",
+      "confidence": 0.23,
+      "business_difficulty": "hard",
+      "score": 29,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-6azchh0d7",
+      "name": "Morgan Thomas",
+      "age": 38,
+      "savings": 17993,
+      "income": 5851,
+      "bills": 1561,
+      "entertainment": 1229,
+      "sales_skills": [
+        "Content Creation"
+      ],
+      "dependents": 0,
+      "assets": 26511,
+      "risk_level": "medium",
+      "confidence": 0.56,
+      "business_difficulty": "very hard",
+      "score": 71,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-aj311b7dn",
+      "name": "Casey Johnson",
+      "age": 43,
+      "savings": 64580,
+      "income": 4709,
+      "bills": 1470,
+      "entertainment": 127,
+      "sales_skills": [
+        "Networking"
+      ],
+      "dependents": 0,
+      "assets": 0,
+      "risk_level": "low",
+      "confidence": 0.27,
+      "business_difficulty": "moderate",
+      "score": 83,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-x6bs3ccle",
+      "name": "Quinn White",
+      "age": 26,
+      "savings": 16445,
+      "income": 7805,
+      "bills": 4075,
+      "entertainment": 420,
+      "sales_skills": [
+        "Cold Calling"
+      ],
+      "dependents": 3,
+      "assets": 12194,
+      "risk_level": "low",
+      "confidence": 0.2,
+      "business_difficulty": "very hard",
+      "score": 44,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-gd9i3zde1",
+      "name": "Drew Moore",
+      "age": 35,
+      "savings": 10766,
+      "income": 6632,
+      "bills": 2574,
+      "entertainment": 161,
+      "sales_skills": [
+        "Digital Marketing",
+        "Relationship Building",
+        "Content Creation"
+      ],
+      "dependents": 2,
+      "assets": 22915,
+      "risk_level": "medium",
+      "confidence": 0.53,
+      "business_difficulty": "very hard",
+      "score": 60,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-da9rnk0by",
+      "name": "Alex Williams",
+      "age": 35,
+      "savings": 6049,
+      "income": 3132,
+      "bills": 1465,
+      "entertainment": 509,
+      "sales_skills": [
+        "Content Creation",
+        "Cold Calling",
+        "Email Marketing",
+        "Networking"
+      ],
+      "dependents": 1,
+      "assets": 42343,
+      "risk_level": "low",
+      "confidence": 0.36,
+      "business_difficulty": "easy",
+      "score": 85,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-l2bm7mcgw",
+      "name": "Alex Brown",
+      "age": 35,
+      "savings": 20969,
+      "income": 7383,
+      "bills": 2770,
+      "entertainment": 706,
+      "sales_skills": [
+        "Product Demo",
+        "Content Creation",
+        "Digital Marketing",
+        "Social Media"
+      ],
+      "dependents": 4,
+      "assets": 22633,
+      "risk_level": "medium",
+      "confidence": 0.94,
+      "business_difficulty": "very hard",
+      "score": 78,
+      "notes": ""
+    },
+    {
+      "id": "1757717436800-khy75ieo0",
+      "name": "Blake Thomas",
+      "age": 28,
+      "savings": 5522,
+      "income": 4454,
+      "bills": 1226,
+      "entertainment": 269,
+      "sales_skills": [
+        "Cold Calling"
+      ],
+      "dependents": 3,
+      "assets": 9267,
+      "risk_level": "high",
+      "confidence": 0.87,
+      "business_difficulty": "hard",
+      "score": 37,
       "notes": ""
     }
   ]
