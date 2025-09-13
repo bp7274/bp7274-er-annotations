@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated": "2025-09-13T14:16:19.090Z",
+    "seed": null,
+    "totalProfiles": 10
+  },
+  "profiles": [
+    {
+      "id": "1757772498637-m48fs6t8y",
+      "name": "Blake Wilson",
+      "age": 19,
+      "savings": 17781,
+      "income": 6763,
+      "bills": 2636,
+      "entertainment": 55,
+      "sales_skills": [
+        "Negotiation",
+        "Content Creation",
+        "Relationship Building"
+      ],
+      "dependents": 2,
+      "assets": 30620,
+      "risk_level": "medium",
+      "confidence": 0.6,
+      "business_difficulty": "very hard",
+      "score": 72,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-b346p8v2w",
+      "name": "Blake Jackson",
+      "age": 39,
+      "savings": 10133,
+      "income": 6015,
+      "bills": 1835,
+      "entertainment": 503,
+      "sales_skills": [
+        "Cold Calling",
+        "Content Creation",
+        "Social Media",
+        "Product Demo"
+      ],
+      "dependents": 3,
+      "assets": 18710,
+      "risk_level": "medium",
+      "confidence": 0.82,
+      "business_difficulty": "easy",
+      "score": 81,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-cy7z794mw",
+      "name": "Morgan Brown",
+      "age": 33,
+      "savings": 12348,
+      "income": 5206,
+      "bills": 2658,
+      "entertainment": 1093,
+      "sales_skills": [
+        "Digital Marketing",
+        "Content Creation",
+        "Cold Calling",
+        "Negotiation"
+      ],
+      "dependents": 0,
+      "assets": 27198,
+      "risk_level": "low",
+      "confidence": 0.64,
+      "business_difficulty": "moderate",
+      "score": 84,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-4e0kl516k",
+      "name": "Morgan Moore",
+      "age": 41,
+      "savings": 1881,
+      "income": 3838,
+      "bills": 1718,
+      "entertainment": 188,
+      "sales_skills": [
+        "Negotiation",
+        "Email Marketing",
+        "Relationship Building"
+      ],
+      "dependents": 0,
+      "assets": 3040,
+      "risk_level": "high",
+      "confidence": 0.71,
+      "business_difficulty": "moderate",
+      "score": 75,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-5m7pgl8yl",
+      "name": "Alex Thomas",
+      "age": 40,
+      "savings": 7880,
+      "income": 2919,
+      "bills": 1000,
+      "entertainment": 315,
+      "sales_skills": [
+        "Networking",
+        "Content Creation",
+        "Digital Marketing",
+        "Social Media"
+      ],
+      "dependents": 3,
+      "assets": 10663,
+      "risk_level": "low",
+      "confidence": 0.77,
+      "business_difficulty": "easy",
+      "score": 65,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-ckwbw1sy3",
+      "name": "Taylor White",
+      "age": 29,
+      "savings": 0,
+      "income": 4878,
+      "bills": 2451,
+      "entertainment": 612,
+      "sales_skills": [
+        "Digital Marketing",
+        "Content Creation"
+      ],
+      "dependents": 0,
+      "assets": 0,
+      "risk_level": "low",
+      "confidence": 0.06,
+      "business_difficulty": "very hard",
+      "score": 33,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-inbpw2q5h",
+      "name": "Riley Brown",
+      "age": 27,
+      "savings": 10932,
+      "income": 4549,
+      "bills": 2691,
+      "entertainment": 408,
+      "sales_skills": [
+        "Email Marketing",
+        "Cold Calling",
+        "Social Media",
+        "Content Creation"
+      ],
+      "dependents": 4,
+      "assets": 13488,
+      "risk_level": "medium",
+      "confidence": 0.62,
+      "business_difficulty": "hard",
+      "score": 63,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-1gvwh1vin",
+      "name": "Alex Davis",
+      "age": 25,
+      "savings": 17167,
+      "income": 6838,
+      "bills": 2383,
+      "entertainment": 1504,
+      "sales_skills": [
+        "Product Demo",
+        "Public Speaking"
+      ],
+      "dependents": 4,
+      "assets": 48227,
+      "risk_level": "medium",
+      "confidence": 0.69,
+      "business_difficulty": "moderate",
+      "score": 58,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-qagt49a8n",
+      "name": "Taylor Taylor",
+      "age": 49,
+      "savings": 9998,
+      "income": 4394,
+      "bills": 1289,
+      "entertainment": 328,
+      "sales_skills": [
+        "Social Media",
+        "Negotiation",
+        "Networking",
+        "Relationship Building"
+      ],
+      "dependents": 0,
+      "assets": 20400,
+      "risk_level": "high",
+      "confidence": 0.62,
+      "business_difficulty": "easy",
+      "score": 70,
+      "notes": ""
+    },
+    {
+      "id": "1757772498637-8hosxzwav",
+      "name": "Casey Davis",
+      "age": 34,
+      "savings": 7607,
+      "income": 6666,
+      "bills": 2245,
+      "entertainment": 653,
+      "sales_skills": [
+        "Content Creation"
+      ],
+      "dependents": 4,
+      "assets": 16698,
+      "risk_level": "low",
+      "confidence": 0.39,
+      "business_difficulty": "easy",
+      "score": 47,
+      "notes": ""
+    }
+  ]
+}
